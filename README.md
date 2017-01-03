@@ -9,6 +9,7 @@
 Organizational idea:
  * What question do I have?
  * What data do I need?
+     * That which-card-do-you-flip thing could go here.
  * What is the deal with this data?
  * How do I make an analysis?
  * What is the deal with this analysis?

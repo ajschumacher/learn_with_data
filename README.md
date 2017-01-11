@@ -4,7 +4,17 @@
 
  * [Scaling Knowledge at Airbnb](https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091) (also ref'ed in [Airbnb grows by sharing data scientist knowledge](http://blog.revolutionanalytics.com/2016/11/airbnb-growth.html))
 
+ * [Reproducible research: Stripe’s approach to data science](https://stripe.com/blog/reproducible-research)
+
+ * "Expect the unexpected"
+     * indicates that you did something wrong; check and double-check
+     * unexpected findings are a reward of looking at data
+
  * edgeworth checking procedure?
+
+ * markov property and sufficient statistics
+
+ * streaming mean, exponential forgetting mean (see [image](streaming_mean.png)) (in https://youtu.be/PnHCvfgC_ZA)
 
 Organizational idea:
  * What question do I have?

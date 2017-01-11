@@ -16,6 +16,10 @@
 
  * streaming mean, exponential forgetting mean (see [image](streaming_mean.png)) (in https://youtu.be/PnHCvfgC_ZA)
 
+ * really short summaries of learning algos?
+     * lin reg is fancy means
+     * decision trees are 20 questions
+
 Organizational idea:
  * What question do I have?
  * What data do I need?

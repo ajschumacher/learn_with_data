@@ -60,3 +60,5 @@ YOU CAN'T SEE DATA
 
 
 KEEP IT SIMPLE
+
+things you can make: dashboards? this is probably a whole section on when/how to make a dashboard. ref the Few book. original note: remembering: dashboard vs. recurring report or almost newspaper-style thing back at BAH

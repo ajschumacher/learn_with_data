@@ -20,6 +20,10 @@
      * lin reg is fancy means
      * decision trees are 20 questions
 
+ * https://www.oreilly.com/ideas/putting-the-science-back-in-data-science
+     * and the linked and possibly better: https://www.peoplepattern.com/post.html#!/how-we-do-data-science-at-people-pattern
+
+
 Organizational idea:
  * What question do I have?
  * What data do I need?

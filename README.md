@@ -1,3 +1,5 @@
+2020-03-26 folded into vis_book/
+
 # notes
 
  * [Opinion: No, ‘truck driver’ isn’t the most common job in your state](http://www.marketwatch.com/story/no-truck-driver-isnt-the-most-common-job-in-your-state-2015-02-12) (example of a problem with categorical labels)
